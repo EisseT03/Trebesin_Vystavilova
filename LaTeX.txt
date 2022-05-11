@@ -1,0 +1,58 @@
+\documentclass[12pt,a4paper,notitlepage]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+
+\begin{document}
+
+\title{Oèkování populace Covid-19}
+\author{ "Jméno studentù v týmu" }
+\date{xx. xx. 202x}
+\maketitle
+
+\begin{abstract}
+Tento dokument byl vypracovaný spoleènì se všemi èleny týmu a ovìøuje základní znalosti \LaTeX{}, databází a projektového øízení.
+
+Tým pracoval samostatnì a využíval všechny dostupné materiály na Moodle nebo internetu. Veškeré licenèní a právní náležitosti jsou upraveny v tomto dokumentu.
+
+Tìm, který není tento dokument urèen nemají žádné právo na využití obsahu tohoto dokumentu.
+
+Veškerá data osob a pøedmìtù jsou smyšlená a nezakládají se na skuteènosti.
+\end{abstract}
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+
+\section{Popis databáze}
+Databáze obsahuje citlivá data o osobách a jejich oèkování. Zároveò v tabulkách je definice skupin, jímž je oèkování zpøístupnìno.
+
+Databáze je vytvoøena na jazyce MySQL a využívá veškeré technologické vlastnosti této DB.
+\newpage
+\section{Licenèní informace a HW požadavky}
+\subsection{Licence}
+\subsection{Hardware}
+\subsection{Software}
+\newpage
+\section{Enumerizace hodnot}
+\subsection{Normované enumerizace}
+\subsection{Custom enumerizace}
+\newpage
+\section{Databázová struktura}
+\subsection{ER diagram}
+\subsection{Tabulka XXX}
+\subsubsection{Struktura}
+\subsubsection{Provázání tabulky}
+\subsection{Tabulka XXX}
+\subsubsection{Struktura}
+\subsubsection{Provázání tabulky}
+\subsection{Tabulka XXX}
+\subsubsection{Struktura}
+\subsubsection{Provázání tabulky}
+
+
+\end{document}
